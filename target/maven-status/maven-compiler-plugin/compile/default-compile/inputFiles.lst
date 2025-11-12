@@ -1,0 +1,9 @@
+/workspaces/Lab-7/src/main/java/com/example/demo/WebsiteApplication.java
+/workspaces/Lab-7/src/main/java/com/example/demo/controller/HomeController.java
+/workspaces/Lab-7/src/main/java/com/example/demo/model/Count.java
+/workspaces/Lab-7/src/main/java/com/example/demo/model/GetQuestion.java
+/workspaces/Lab-7/src/main/java/com/example/demo/model/Greeting.java
+/workspaces/Lab-7/src/main/java/com/example/demo/model/MyString.java
+/workspaces/Lab-7/src/main/java/com/example/demo/model/questions/ArrayQuestionsTrueFalse.java
+/workspaces/Lab-7/src/main/java/com/example/demo/model/questions/CurrentQuestionTrueFalse.java
+/workspaces/Lab-7/src/main/java/com/example/demo/model/questions/QuestionTrueFalse.java
